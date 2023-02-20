@@ -1,0 +1,65 @@
+{
+  "data": [
+    {
+      "id": "house",
+      "icon": "home-outline"
+    },
+    {
+      "id": "transport",
+      "icon": "car-sport-outline"
+    },
+    {
+      "id": "food",
+      "icon": "fast-food-outline"
+    },
+    {
+      "id": "fashion",
+      "icon": "shirt-outline"
+    },
+    {
+      "id": "health",
+      "icon": "medkit-outline"
+    },
+    {
+      "id": "entertainment",
+      "icon": "videocam-outline"
+    },
+    {
+      "id": "education",
+      "icon": "school-outline"
+    },
+    {
+      "id": "pet",
+      "icon": "paw-outline"
+    },
+    {
+      "id": "trips",
+      "icon": "airplane-outline"
+    },
+    { "id": "technology", "icon": "phone-portrait-outline" },
+    {
+      "id": "gift",
+      "icon": "gift-outline"
+    },
+    {
+      "id": "other",
+      "icon": "help-buoy-outline"
+    },
+    {
+      "id": "taxes",
+      "icon": "cash-outline"
+    },
+    {
+      "id": "insurance",
+      "icon": "shield-checkmark-outline"
+    },
+    {
+      "id": "business",
+      "icon": "storefront-outline"
+    },
+    {
+      "id": "other",
+      "icon": "help-buoy-outline"
+    }
+  ]
+}
